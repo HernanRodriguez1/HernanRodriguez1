@@ -54,14 +54,11 @@ Cybersecurity enthusiast specialized in offensive security with experience in pe
 ![Atomic Red Team](https://img.shields.io/badge/Atomic%20Red%20Team-darkgreen?style=flat-square)
 
 
-
 ---
 
 ## 📊 GitHub Analytics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HernanRodriguez1&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HernanRodriguez1&layout=compact&theme=tokyonight&hide_border=true)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=HernanRodriguez1&theme=onedark&margin-w=8&margin-h=8&no-frame=true)
-
 
 ---
 
@@ -72,7 +69,5 @@ Cybersecurity enthusiast specialized in offensive security with experience in pe
 - 🌐 **GitHub**: [https://github.com/HernanRodriguez1/](https://github.com/HernanRodriguez1/)
 
 ---
----
 
-<!-- Footer dinámico -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
